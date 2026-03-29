@@ -12,4 +12,10 @@ console.log(value);
 value = "теперь это строка";
 console.log(value);
 value = true
-console.log(value); 
+console.log(value);
+
+
+let newPrice = 15;
+console.log(newPrice, typeof (newPrice));
+newPrice = "str";
+console.log(newPrice, typeof (newPrice));
